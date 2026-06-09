@@ -13,3 +13,5 @@ A daily Islamic companion website for Muslim communities.
 ## Built With
 - HTML
 - CSS
+## Live Demo
+[View Website](https://gleaming-cuchufli-171186.netlify.app/)
